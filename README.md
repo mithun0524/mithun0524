@@ -71,8 +71,9 @@ code editor that runs a real Node environment right in the browser.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mithun0524&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithun0524&layout=compact&hide_border=true&bg_color=0d1117&title_color=d97757&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithun0524&theme=github_dark" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithun0524&theme=github_dark" alt="most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithun0524&theme=github_dark" alt="most commit language" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithun0524&hide_border=true&background=0d1117&stroke=d97757&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
@@ -81,6 +82,6 @@ code editor that runs a real Node environment right in the browser.
 ---
 
 <div align="center">
-<sub>Currently building agentic full-stack systems around master data management & AWS at <b>Aquera Labs</b>.</sub><br/>
+<sub>Currently building AI agents and full-stack products at <b>Aquera Labs</b>.</sub><br/>
 <sub>psst — there's a creature named Herby hiding in <a href="https://mithunchavan.me">my portfolio</a> 🐾</sub>
 </div>
