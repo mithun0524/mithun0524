@@ -20,7 +20,7 @@
 </p>
 
 <p align="center"><img src="assets/label-stack.svg" alt="Stack" width="100%" /></p>
-<p align="center"><img src="assets/stack.svg" alt="TypeScript, Python, React, Three.js, WebGPU, Node, LLM agents, AWS" width="100%" /></p>
+<p align="center"><img src="assets/stack.svg" alt="Languages: TypeScript, Python, Rust, SQL, Java. Build: React, Next.js, Angular, Node, Three.js, WebGPU, Tauri. AI and data: LLM agents, LangGraph, MCP, Ollama, XGBoost, Supabase, Postgres. Cloud: AWS, Docker, Vercel, Render." width="100%" /></p>
 
 <p align="center"><img src="assets/label-say.svg" alt="Say hi" width="100%" /></p>
 
